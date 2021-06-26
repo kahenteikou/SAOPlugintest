@@ -1,0 +1,4 @@
+EXPORTS
+	CLI_OnInitial
+	CLI_OnRelease
+	CLI_OnReady
